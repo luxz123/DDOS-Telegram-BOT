@@ -12,7 +12,7 @@ TOKEN = "YOUR_ACTUAL_TOKEN"
 ADMIN_CHAT_ID = YOUR_ACTUAL_ID
 MAX_PACKETS = 1000000  # Industrial-grade flood volume
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(8372395160:AAGzkEWJ-kb8apfUaH28m1vVEI3T1UeNgAM)
 user_attacks = {}  # {chat_id: {'method': '', 'target': ''}}
 
 # ===== CYBER WEAPONRY ARSENAL =====
